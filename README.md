@@ -1,3 +1,3 @@
 # CS50
-Harvard University CS50 course
-my code from exercises of CS50!
+Harvard University CS50 course;
+My codes from exercises of CS50!
